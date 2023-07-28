@@ -2,6 +2,7 @@ My programming language course:
 - Javascript
   ^React.Js
   ^Node.Js
+  ^Angular.Js
 - PHP
 - C++
 - Python
