@@ -4,7 +4,8 @@ My programming language course:
   ^Node.Js
   ^Angular.Js
 - PHP
+  ^Laravel
 - C++
 - Python
 - Java
-- Ruby
+
